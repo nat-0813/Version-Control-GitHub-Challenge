@@ -1,0 +1,19 @@
+1. Explain what the terminal is in your own words.
+
+- The Terminal is the interface for text commands
+
+2. What is the major difference between Git and Github?
+
+-Git is the underlying version control system, while GitHub is a hosting service for Git repositories that provides additional features for collaboration and project management.
+
+3. Why do we use Github?
+
+- Version Control: allows developers to track changes to their code over time, compare different versions, and revert to earlier versions if needed.
+
+- Collaboration: allows developers to collaborate with other team members on a project, allowing them to work on the same code simultaneously and merge changes together.
+
+-Code sharing: provides platform for developers to share their code with others, allowing them to show off their work and work together with others.
+
+- Open Source Development: Widely used for managing projects, such as issue tracking, project boards,  and milestones, allowing developers to organize and prioritize work.
+
+-Project Management: provides features for managing projects, such as issue tracking, project boards, and milestones, allowing developers to organize and prioritize their work.
